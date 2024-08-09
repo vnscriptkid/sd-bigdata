@@ -1,0 +1,6 @@
+sale_id,product_id,store_id,date_id,amount_sold,quantity_sold
+1,1,1,1,500.00,5
+2,2,2,2,1000.00,2
+3,3,3,3,200.00,1
+4,4,4,4,300.00,3
+5,5,5,5,150.00,1
